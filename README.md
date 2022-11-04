@@ -1,4 +1,5 @@
 # Block-Balls-Problem-Testing
+# dont't forget to open the browser console!
 
 We have 2 balls and 1 block of 100 floors. We need to TEST at what floor the balls will break. 
 
