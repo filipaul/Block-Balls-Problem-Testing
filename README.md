@@ -16,7 +16,7 @@ We have 2 balls and 1 block of 100 floors. We need to TEST at what floor the bal
 
 *This step (try3) can be made progressive, after the first 10 floors you can decrease the number of floors tested: you can go and TEST the next 9 floors, then the next 8 floors, the next 7 floors and so on.
 
-**Feel free to change "calculationType" value with 1 / 2 / 3 for different TESTS
+# **Feel free to change "calculationType" value with 1 / 2 / 3 for different TESTS
 
 ***I've created distinct functions that can be reused in other functions, in order to not repeat them every time and just to call them.
  
