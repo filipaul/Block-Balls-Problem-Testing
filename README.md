@@ -14,9 +14,9 @@ We have 2 balls and 1 block of 100 floors. We need to TEST at what floor the bal
            - And now we need to find out where is exactly the floor from which the last ball will break
            - In order to do so, we will call function try1() to verify each floor 1 by 1, using the last ball, from previous floor from where ball didn't break to the floor from where ball breaks.
 
-# *This step (try3) can be made progressive, after the first 10 floors you can decrease the number of floors tested: you can go and TEST the next 9 floors, then the next 8 floors, the next 7 floors and so on.
+*This step (try3) can be made progressive, after the first 10 floors you can decrease the number of floors tested: you can go and TEST the next 9 floors, then the next 8 floors, the next 7 floors and so on.
 
-# **Feel free to change "calculationType" value with 1 / 2 / 3 for different TESTS
+**Feel free to change "calculationType" value with 1 / 2 / 3 for different TESTS
 
-# ***I've created distinct functions that can be reused in other functions, in order to not repeat them every time and just to call them.
+***I've created distinct functions that can be reused in other functions, in order to not repeat them every time and just to call them.
  
